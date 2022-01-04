@@ -1,3 +1,6 @@
 Hi 
 Hello 
 print("how re you");
+x= 5;
+y=8;
+z=x+y;
